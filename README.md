@@ -65,6 +65,13 @@ $ python pprint_json.py <path to file>
 #Введите номер интересующей страницы: 
 #
 
+```
+
+# How to Help
+
+```bash
+python pprint_json.py --help
+```
 
 # Project Goals
 
