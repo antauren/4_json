@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-
 import json
 import sys
-import os.path
-import codecs
 
 def load_data(filepath):
     with open ( filepath , 'r',  encoding='cp1251') as f:
