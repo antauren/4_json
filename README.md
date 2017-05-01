@@ -12,8 +12,6 @@ Example of script launch on Linux, Python 3.5:
 
 $ python pprint_json.py <path to file>
 
-
-```bash
 #[
 #    {
 #        "Address": "Нижний Кисельный переулок, дом 3, строение 1",
