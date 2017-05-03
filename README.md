@@ -2,13 +2,13 @@
 
 Данный скрипт принимает на вход путь до файла, в котором хранится json и выводит его содержимое в консоль в удобном для чтения виде. 
 
-# Quickstart
+# Как запустить
 
-Example of script launch on Linux, Python 3.5:
+Пример запуска скрипта в Linux, Python 3.5:
 
 ```#!bash
 
-$ python pprint_json.py <path to file> 
+$ python pprint_json.py data-2897-2016-11-23.json
 
 #[
 #    {
@@ -55,20 +55,12 @@ $ python pprint_json.py <path to file>
 #                "PublicPhone": "(495) 602-45-85",
 #                "global_id": 21059.0,
 #                "global_object_id": 20660628.0,
-#                
-#
-#Количество страниц в базе:  335 
-#Введите номер интересующей страницы: 
 #
 
 ```
+Запуск на Windows происходит аналогично.
 
-# How to Help
 
-```bash
-python pprint_json.py --help
-```
+# Цели проекта
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
